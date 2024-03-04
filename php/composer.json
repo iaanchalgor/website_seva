@@ -1,0 +1,9 @@
+{
+    "name": "dell/php",
+    "description": "project",
+    "type": "project",
+    "require": {
+
+        "google/cloud-firestore": "^0.1.0"
+    }
+}

@@ -1,0 +1,44 @@
+.brownText {
+  color: #3d2010;
+}
+.brownBackground {
+  background-color: #3d2010;
+}
+.whiteText {
+  color: #f0f0f0;
+}
+.whiteBackground {
+  background-color: #f0f0f0;
+}
+.greyText {
+  color: #f4f3f3;
+}
+.lightBrownBackground {
+  background-color: #b88061;
+}
+
+.mediumBrownBackground {
+  background-color: #753e20;
+}
+.morelightBrownBackground {
+  background-color: #edbda3;
+}
+.p1 {
+  background-color: #3d2010;
+}
+.p2 {
+  background-color: #5c3119;
+}
+.p3 {
+  background-color: #753e20;
+}
+.p4 {
+  background-color: rgb(158, 93, 58);
+}
+.p5 {
+  background-color: #b88061;
+}
+
+.formInputColor {
+  background-color: #faefed;
+}
